@@ -17,7 +17,7 @@ public class Boletin4B {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      Consumo consum= new Consumo();
+        Consumo consum= new Consumo();
       consum.setLitros(50);
       consum.setPgas(1.57f);
       String km=JOptionPane.showInputDialog("Kilómetros=");

@@ -10,7 +10,7 @@ package boletin4b;
  * @author slagogonzalez
  */
 public class Consumo {
-    private float km;
+ private float km;
     private float litros;
     private float vMed;
     private float pGas;
